@@ -1,0 +1,15 @@
+C:\Users\Айвар\Desktop\homeWork1512\bin\Debug\net7.0\homeWork1512.exe
+C:\Users\Айвар\Desktop\homeWork1512\bin\Debug\net7.0\homeWork1512.deps.json
+C:\Users\Айвар\Desktop\homeWork1512\bin\Debug\net7.0\homeWork1512.runtimeconfig.json
+C:\Users\Айвар\Desktop\homeWork1512\bin\Debug\net7.0\homeWork1512.dll
+C:\Users\Айвар\Desktop\homeWork1512\bin\Debug\net7.0\homeWork1512.pdb
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\homeWork1512.csproj.AssemblyReference.cache
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\homeWork1512.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\homeWork1512.AssemblyInfoInputs.cache
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\homeWork1512.AssemblyInfo.cs
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\homeWork1512.csproj.CoreCompileInputs.cache
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\homeWork1512.dll
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\refint\homeWork1512.dll
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\homeWork1512.pdb
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\homeWork1512.genruntimeconfig.cache
+C:\Users\Айвар\Desktop\homeWork1512\obj\Debug\net7.0\ref\homeWork1512.dll
